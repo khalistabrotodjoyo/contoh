@@ -94,11 +94,18 @@ h5 {
 	margin: 5px;
 	padding: 40px;
 	background-color: #ffffffc4;
+	max-width: 100%;
+	width: 100%;
+	margin: 20px;
+}
+.tm-bg-white-transparentlist {
+	margin: 5px;
+	padding: 40px;
+	background-color: #ffffffc4;
 	max-width: 340px;
 	width: 100%;
 	margin: 20px;
 }
-
 .tm-bg-white-transparent-page3 {
 	margin-left: 100px;
 	
